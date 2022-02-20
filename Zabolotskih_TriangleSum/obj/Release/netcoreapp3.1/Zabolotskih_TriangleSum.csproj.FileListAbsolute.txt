@@ -1,0 +1,14 @@
+C:\Users\Kate\source\repos\Zabolotskih_TriangleSum\Zabolotskih_TriangleSum\bin\Release\netcoreapp3.1\Zabolotskih_TriangleSum.exe
+C:\Users\Kate\source\repos\Zabolotskih_TriangleSum\Zabolotskih_TriangleSum\bin\Release\netcoreapp3.1\Zabolotskih_TriangleSum.deps.json
+C:\Users\Kate\source\repos\Zabolotskih_TriangleSum\Zabolotskih_TriangleSum\bin\Release\netcoreapp3.1\Zabolotskih_TriangleSum.runtimeconfig.json
+C:\Users\Kate\source\repos\Zabolotskih_TriangleSum\Zabolotskih_TriangleSum\bin\Release\netcoreapp3.1\Zabolotskih_TriangleSum.runtimeconfig.dev.json
+C:\Users\Kate\source\repos\Zabolotskih_TriangleSum\Zabolotskih_TriangleSum\bin\Release\netcoreapp3.1\Zabolotskih_TriangleSum.dll
+C:\Users\Kate\source\repos\Zabolotskih_TriangleSum\Zabolotskih_TriangleSum\bin\Release\netcoreapp3.1\Zabolotskih_TriangleSum.pdb
+C:\Users\Kate\source\repos\Zabolotskih_TriangleSum\Zabolotskih_TriangleSum\obj\Release\netcoreapp3.1\Zabolotskih_TriangleSum.csproj.AssemblyReference.cache
+C:\Users\Kate\source\repos\Zabolotskih_TriangleSum\Zabolotskih_TriangleSum\obj\Release\netcoreapp3.1\Zabolotskih_TriangleSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kate\source\repos\Zabolotskih_TriangleSum\Zabolotskih_TriangleSum\obj\Release\netcoreapp3.1\Zabolotskih_TriangleSum.AssemblyInfoInputs.cache
+C:\Users\Kate\source\repos\Zabolotskih_TriangleSum\Zabolotskih_TriangleSum\obj\Release\netcoreapp3.1\Zabolotskih_TriangleSum.AssemblyInfo.cs
+C:\Users\Kate\source\repos\Zabolotskih_TriangleSum\Zabolotskih_TriangleSum\obj\Release\netcoreapp3.1\Zabolotskih_TriangleSum.csproj.CoreCompileInputs.cache
+C:\Users\Kate\source\repos\Zabolotskih_TriangleSum\Zabolotskih_TriangleSum\obj\Release\netcoreapp3.1\Zabolotskih_TriangleSum.dll
+C:\Users\Kate\source\repos\Zabolotskih_TriangleSum\Zabolotskih_TriangleSum\obj\Release\netcoreapp3.1\Zabolotskih_TriangleSum.pdb
+C:\Users\Kate\source\repos\Zabolotskih_TriangleSum\Zabolotskih_TriangleSum\obj\Release\netcoreapp3.1\Zabolotskih_TriangleSum.genruntimeconfig.cache
