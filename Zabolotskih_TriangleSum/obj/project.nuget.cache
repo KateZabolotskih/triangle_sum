@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bhX3LXMLeK7w5bsCslZSno6FR6trGlXfij4bbJRiv5+REhPdnQL85Zg6+glpmp9+Ug7AkjgrNK8dqIiWdO0swg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kate\\source\\repos\\Zabolotskih_TriangleSum\\Zabolotskih_TriangleSum\\Zabolotskih_TriangleSum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kate\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
